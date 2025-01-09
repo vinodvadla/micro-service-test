@@ -1,4 +1,2 @@
-/gateway/node_modules/
-/service_1/node_modules/
-/service_2/node_modules/
-/shared-models/node_modules/
+# Ignore node_modules directories
+**/node_modules/
